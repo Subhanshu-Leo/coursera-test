@@ -1,4 +1,19 @@
 <!DOCTYPE html>
+<html>
+  <body>
+    <h1> Big heading </h1>
+    <h2> Medium heading </h2>
+    <p title ="para1">
+      Hi all<br> How do u do.<hr>
+      <a href="https://google.com"> Go to google</a>
+    </p>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F" height="200" width ="200">
+  </body>
+</html>
+
+
+
+<!DOCTYPE html>
 <htmL>
 <body>
 <pre> 
@@ -13,6 +28,10 @@
 Mark now <mark>Meow says the cat</mark>
 
 Don't do this: <del> bunk school </del>  
+<ins>inserted here</ins>
+<small>This is small</small>
+O<sub>2</sub>
+7<sup>3</sup>
 </pre>
 </body>
 </htmL>
