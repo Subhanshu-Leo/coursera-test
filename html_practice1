@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<htmL>
+<body>
+<pre> 
+<b> This is a text</b>
+  
+<strong> This is so strong</strong> 
+  
+<em> Emphasized</em>  
+  
+<i> Italic </i>
+
+Mark now <mark>Meow says the cat</mark>
+
+Don't do this: <del> bunk school </del>  
+</pre>
+</body>
+</htmL>
