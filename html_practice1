@@ -55,5 +55,45 @@ O<sub>2</sub>
 <!--<p> A text </p>-->  
 <a href="/go" target="_blank"> Go to google </a>
 <a href="mailto:sample@sample.com"}> Send me an email</a>
+
+
+<!-- This is how to write ordered list ol,unordered list ul and use li to insert elements-->
+<!-- dl is description list. it allows us to show more description about the list we want to use. use dt to insert elements in the list and dd to add description to it -->
+<dl>
+  <dt>Name 1</dt>
+  <dd>*This is first name</dd>
+  <dt>Name 2</dt>
+  <dd>*This is second name</dd>
+</dl>
+<!-- div type is to block elements in a box like structure. We can write inline comments in it like <b>,<a>-->
+<div style="color:green;background-color:blue;">
+  <h1> First div</h1>
+  <p> This text is<b>  bold</b></p>
+</div>
+<div style="color: red;background-color:purple">
+  <h2> Second</h2>
+  <i> Hi</i>
+</div>
+<!-- iframe is used to get an image of the link page we want to see-->
+<iframe src="https://google.com" height="500" width="500" style="border:  none;"> 
+</iframe>
+<!-- to make any standard sign like euro use &euro; for copyright sign &#169; for register sign &#174; --> 
+<!-- to make labels of say name, numbers or checkboxes we do as follows-->
+<form>
+ <label for="username"> Tomi</label><br>
+  <input type="checkbox" name="username" id="username" value="Tomi"><br>
+  <label for="username2">Tom</label><br>
+  <input type="checkbox" name="username2" id="username2" value="Tim"><br>
+<!-- when u click a checkbox the value passed to the system is actually value in input attribute-->
+<label>Name</label>
+<input type="text">
+<label>Number</label>
+<input type="number">
+<!-- we can use type="radio" to make circular option-->
+<input type="submit" value="send">
+<!-- to submit we can use type submit by default values is submit but we can modify it using value attribute-->
+</form>
+<!-- we can use action command in form option to tell HTML where to send the form-->
+<!-- two methods to submit the data it is called get and second is postv
 </body>
 </htmL>
