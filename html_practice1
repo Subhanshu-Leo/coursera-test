@@ -33,5 +33,27 @@ Don't do this: <del> bunk school </del>
 O<sub>2</sub>
 7<sup>3</sup>
 </pre>
+<!--to write tables-->
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+    <th>Class</th>
+  </tr>
+  <tr>
+    <td>Tomi</td>
+    <td>19</td>
+    <td>Year 12</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>30</td>
+    <td>Year 15</td>
+  </tr>
+</table>
+<h1 style="color:blue;background-color:red;"> This is my heading</h1>
+<!--<p> A text </p>-->  
+<a href="/go" target="_blank"> Go to google </a>
+<a href="mailto:sample@sample.com"}> Send me an email</a>
 </body>
 </htmL>
